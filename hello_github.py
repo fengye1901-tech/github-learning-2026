@@ -1,2 +1,5 @@
 print("Hello GitHub!")
-print("My journey to becoming a GitHub master begins today!")
+
+print("I am learning Python and GitHub!")
+
+print("My goal is to become a GitHub master! 🚀")
